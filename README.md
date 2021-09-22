@@ -1,3 +1,3 @@
 # LyricsFinder
 
-deployed at http://lyricsfinder-nuzul.netlify.app
+deployed at https://lyricsfinder-nuzul.netlify.app
